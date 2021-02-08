@@ -1,4 +1,5 @@
 欢迎来到Lean的Openwrt源码仓库！
+fork自 https://github.com/coolsnowwolf/openwrt
 =
 Welcome to Lean's  git source of OpenWrt and packages
 =
